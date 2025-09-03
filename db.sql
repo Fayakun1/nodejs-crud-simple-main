@@ -1,4 +1,4 @@
--- Membuat database
+﻿-- Membuat database
 CREATE DATABASE IF NOT EXISTS testdb;
 
 -- Menggunakan database
